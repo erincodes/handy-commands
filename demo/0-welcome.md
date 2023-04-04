@@ -10,6 +10,8 @@ Our group was founded in 2017 with a mission to create a space for those that ha
 
 ## Reference this repo on Github:
 
+I encourage you to code along and try these shortcuts out!
+
 https://github.com/erincodes/handy-commands
 
 ## Connect with Rubber Ducks:
