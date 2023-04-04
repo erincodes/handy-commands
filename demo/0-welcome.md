@@ -1,4 +1,6 @@
-# Erin Scott Adams
+# Hi, I'm Erin & these are some of my go-to commands
+
+- Hope they make your life easier!
 
 ## About Rubber Ducks
 
