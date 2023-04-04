@@ -1,6 +1,6 @@
 # Command Line
 
-- Handy commands in your terminal
+- Random handy commands in your terminal
 
 ## `ssh-add ~/.ssh/id_rsa`
 
