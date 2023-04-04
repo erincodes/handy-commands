@@ -15,6 +15,13 @@
 
 - See all object properties available
 
+## `TODO: [your initials]`
+
+- Syntax highlighting, depending on your VSCode theme
+- I often write `TODO: ESA -` notes as I'm debugging
+- Helpful to orient yourself or find where you left off, distinguish from other's TODO notes
+- Do a search in the repo before submitting PR to clean up
+
 ## Emmet Shortcuts
 
 - Emmet is a plugin for text editors that helps you improve your workflow
