@@ -12,3 +12,7 @@
 ## `command + shift + 5`
 
 - Opens screenshot control pane, can take videos too
+
+## `control + command + spacebar`
+
+- Opens emoji panel 🤩 🥦 🦹🏻‍♀️
