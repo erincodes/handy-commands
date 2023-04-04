@@ -1,6 +1,6 @@
-# Hi, I'm Erin & these are some of my go-to commands
+# Hi, I'm Erin & these are some of my go-to commands/shortcuts
 
-- Hope they make your life easier!
+Hope they make your life easier too!
 
 ## About Rubber Ducks
 
