@@ -30,3 +30,7 @@
 
 - Navigates you to the root directory
 - Helpful if you get buried and need to back out or start over to orient yourself
+
+## `clear`
+
+- Cleans out your terminal, nice way to visually start fresh
