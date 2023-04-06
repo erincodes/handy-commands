@@ -16,8 +16,9 @@
 
 - Drops in your previously stashed changes
 - 🔑 Pro tip: you can pop changes between branches!
+  x
 
-## `git cherry-pick [commitSha]`
+## `git cherry-pick [commitHash]`
 
 - Merges the only changes from a specific commit hash into your working branch
 - Handy for collaboration
