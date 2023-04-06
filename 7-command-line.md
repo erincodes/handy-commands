@@ -28,7 +28,7 @@
 
 ## `cd ~`
 
-- Navigates you to the root directory
+- "Change directory" to the root
 - Helpful if you get buried and need to back out or start over to orient yourself
 
 ## `clear`
