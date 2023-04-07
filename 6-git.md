@@ -16,7 +16,6 @@
 
 - Drops in your previously stashed changes
 - 🔑 Pro tip: you can pop changes between branches!
-  x
 
 ## `git cherry-pick [commitHash]`
 
