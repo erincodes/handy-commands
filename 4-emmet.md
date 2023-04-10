@@ -19,6 +19,7 @@
 ## Highlight a keyword, then `command + d`
 
 - Selects multiple instances to edit at same time
+- To select all instances in the file, use `command + shift + l`
 
 ## Right click on file name, select "copy relative path"
 
