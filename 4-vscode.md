@@ -23,3 +23,8 @@
 - I often write `TODO: ESA -` notes as I'm debugging
 - Helpful to orient yourself or find where you left off, distinguish from other's TODO notes
 - Do a search in the repo before submitting PR to clean up
+
+## Right click on file name, select "copy relative path"
+
+- Or `command + k + shift + option + command + c` 😅
+- Relative path to that file

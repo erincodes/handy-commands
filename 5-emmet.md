@@ -1,6 +1,6 @@
 # Emmet Shortcuts
 
-- Emmet is a plugin for text editors that helps you improve your workflow
+- Emmet is a plugin for code editors that helps you improve your workflow
 - https://docs.emmet.io/cheat-sheet/
 
 ## `option + [arrow keys]`
@@ -19,8 +19,3 @@
 ## Highlight a keyword, then `command + d`
 
 - Selects multiple instances to edit at same time
-
-## Right click on file name, select "copy relative path"
-
-- Or `command + k + shift + option + command + c` 😅
-- Relative path to that file

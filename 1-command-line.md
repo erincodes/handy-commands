@@ -2,17 +2,6 @@
 
 - Random handy commands in your terminal
 
-## `ssh-add ~/.ssh/id_rsa`
-
-- Adds your identity
-- Enables you to push/pull from a remote repository
-
-## `zip -er desiredName.zip fileToInclude.pdf`
-
-- Password protect & encrypt a zip file from the command line
-- Be sure you first navigate in the terminal to the directory that the file is in
-- System will ask for a password. This is what you want the password to be to unlock the file (not your computer password)
-
 ## Arrow Up
 
 - Pastes your last command(s)
@@ -34,3 +23,15 @@
 ## `clear`
 
 - Cleans out your terminal, nice way to visually start fresh
+
+## `ssh-add ~/.ssh/id_rsa`
+
+- Adds your identity
+- Enables you to push/pull from a remote repository
+
+## `zip -er desiredName.zip fileToInclude.pdf`
+
+- Password protect & encrypt a zip file from the command line
+- Be sure you first navigate in the terminal to the directory that the file is in
+- System will ask for a password. This is what you want the password to be to unlock the file (not your computer password)
+

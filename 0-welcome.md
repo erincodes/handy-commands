@@ -20,8 +20,7 @@ https://github.com/erincodes/handy-commands
 
 ## Connect with Rubber Ducks:
 
-https://www.linkedin.com/company/rubber-ducks-nm/
-https://www.meetup.com/rubber-ducks/
+https://www.linkedin.com/company/rubber-ducks-nm/ | https://www.meetup.com/rubber-ducks/
 
 ## Connect with me:
 
