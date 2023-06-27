@@ -8,7 +8,7 @@
 - Backs you out of a `git merge`, no harm no foul
 - Helpful if you want to see if there are conflicts, but then want to cancel the merge
 
-## `git stash` this is a change
+## `git stash`
 
 - Saves your active changes but removes them from your current diff
 
