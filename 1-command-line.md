@@ -15,6 +15,10 @@
 
 - Shows your current file path aka where you are in the file structure
 
+## `cd -`
+
+- Take you to the path of previous working directory
+
 ## `cd ~`
 
 - "Change directory" to the root
@@ -34,4 +38,3 @@
 - Password protect & encrypt a zip file from the command line
 - Be sure you first navigate in the terminal to the directory that the file is in
 - System will ask for a password. This is what you want the password to be to unlock the file (not your computer password)
-
